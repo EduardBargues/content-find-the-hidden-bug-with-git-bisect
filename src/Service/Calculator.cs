@@ -9,5 +9,7 @@
         /// <param name="number2"></param>
         /// <returns></returns>
         public int Sum(int number1, int number2) => number1 + number1;
+
+        public int Multiply(int number1, int number2) => number1 * number2;
     }
 }
